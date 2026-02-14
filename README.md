@@ -61,3 +61,6 @@ Os indicadores de topo do dashboard resumem a saúde financeira da rede:
 
 ### Dashboard
 ![Dashboard](./img/img_dashboard_tangerina_2025.png)
+
+### 📄 Relatório Técnico
+> [📥 Baixar Relatório em PDF](./pdf/Business%20Intelligence%20Tangerina%20An%C3%A1lise%20de%20Expans%C3%A3o%20e%20Efici%C3%AAncia%20Operacional.pdf)
