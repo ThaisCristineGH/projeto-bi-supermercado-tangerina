@@ -15,11 +15,11 @@ Diferente de projetos técnicos comuns, este iniciou-se na concepção da marca.
 2. Visual: Desenvolvimento de uma paleta de cores (Laranja e Verde) aplicada em todo o ecossistema do projeto (Excel, BI e PDF) para garantir uma experiência de usuário (UX) coesa e profissional.
 
 ## 🔍 Estrutura do Repositório
-📂 dados_excel/: Contém todas as pastas de trabalho do projeto
-📂 dashboard/: PowerBi / PowerQuery
-📂 img/: imagens da estrutura do projeto
-📂 pdf/: Relatório técnico do projeto inteiro + análise dos dados comerciais
-📂 csv/: dados em formato csv
+* 📂 dados_excel/: Contém todas as pastas de trabalho do projeto
+* 📂 dashboard/: PowerBi / PowerQuery
+* 📂 img/: imagens da estrutura do projeto
+* 📂 pdf/: Relatório técnico do projeto inteiro + análise dos dados comerciais
+* 📂 csv/: dados em formato csv
 
 ## ⚙️ Engenharia de Dados (ETL)
 A etapa mais crítica do projeto. Os dados iniciais no Excel apresentavam diversos problemas que impediriam uma análise correta.
@@ -47,8 +47,17 @@ Os indicadores de topo do dashboard resumem a saúde financeira da rede:
 3. Custos Operacionais: R$ 144,5 Mil
 4. Análise de Dashboard e Veredito Estratégico
 
-### 📄 Relatório Técnico
-> 💡Relatório Técnico Supermercado Tangerina:
-> [📥 Baixar Relatório em PDF](./pdf/Business Intelligence Tangerina Análise de Expansão e Eficiência Operacional.pdf)
 
+## 🗺️ Abaixo estão exemplos visuais do processo de limpeza dos dados e do dashboard final desenvolvido no projeto:
 
+### Antes do tratamento de dados
+![Dados Brutos](./img/img_excel_dados_brutos_tangerina_2025.png)
+
+### Depois do tratamento de dados
+![Dados Tratados](./img/img_excel_dados_tratados_tangerina_2025.png)
+
+### Power Query
+![Power Query](./img/img_powerQ_tangerina_2025.png)
+
+### Dashboard
+![Dashboard](./img/img_dashboard_tangerina_2025.png)
